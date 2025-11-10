@@ -12,7 +12,7 @@ Our main goal was to practice using GitHub as a team while writing simple C++ pr
 
 ## Contributors
 - **Aaron Ashenbrener**  
-- **Vishnu [Last Name]**  
+- **Vishnu Renganathan**  
 - **Liam Mapes**
 
 ## Lessons Learned
