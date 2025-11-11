@@ -1,1 +1,24 @@
+#include <iostream>
 
+using namespace std;
+
+int main()
+
+{
+    cout << "Hello World!" << endl;
+    string hello;
+    string hello1;
+    string hello2;
+    cout << "enter a word: ";
+    cin >> hello1 >> hello2;
+    cout << hello1 << endl;
+    cout << hello2.substr(0,1) << endl;
+    string txt;
+    cout << ("enter another one: ");
+    cin >> txt ;
+    cout << txt << endl;
+    int j = txt.length();
+    cout << ("Word Length: ");
+    cout << j << endl;
+    return 0;
+}
