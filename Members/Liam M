@@ -1,1 +1,28 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Liam Mapers</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Liam Mapes</h1>
+
+    <h2>About Me</h2>
+    <p>Major: Computer Science</p>
+    <p>Year: Freshman</p>
+    <p>Hometown: Golden, Colorado</p>
+    <p>Favorite Food: Philly Cheesesteak/p>
+    
+    <h2>Interests</h2>
+    <ul>
+        <li>Skiing</li>
+        <li>Soccer</li>
+        <li>Travel</li>
+        <li>Gaming</li>
+    </ul>
+    
+    <h2>Fun Fact</h2>
+    <p>I Skied in Japan</p>
+</body>
+</html>
